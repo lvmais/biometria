@@ -1,0 +1,17 @@
+29-06-2011
+
+
+Não sei porque, entretanto, ....
+
+Instalei o sistema "Griaule FingerCap USB Driver 1.2 Installer.exe"
+inúmeras vezes e o leitor não lia a digital.
+Tem uma parte que ele pede para desconectar o leitor para ele poder
+continuar a instalação. Todas as vezes eu respeitei, entretanto,
+na última vez que já estava puto, não retirei o leitor da USB e, adivinhe,
+funcionou.
+
+A ordem foi instalei.
+	1- Fingerprint_SDK_2007_Installer.exe
+	2- Griaule FingerCap USB Driver 1.2 Installer.exe (sem retirar o leitor da USB)
+
+e funcionou.....

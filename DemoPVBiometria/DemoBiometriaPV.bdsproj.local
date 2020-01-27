@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/04/02 17:27:35.890.pas,D:\Documentos\Borland Studio Projects\Unit5.pas=C:\Documents and Settings\Paulo Vale\Desktop\Biometria\DemoPVBiometria\uDemoPV.pas</Transaction>
+    <Transaction>2011/04/02 17:27:35.890.dfm,D:\Documentos\Borland Studio Projects\Unit5.dfm=C:\Documents and Settings\Paulo Vale\Desktop\Biometria\DemoPVBiometria\uDemoPV.dfm</Transaction>
+    <Transaction>2011/04/02 17:28:07.640.bdsproj,D:\Documentos\Borland Studio Projects\Project5.bdsproj=C:\Documents and Settings\Paulo Vale\Desktop\Biometria\DemoPVBiometria\DemoBiometriaPV.bdsproj</Transaction>
+    <Transaction>2011/04/02 18:33:35.562.pas,C:\Documents and Settings\Paulo Vale\Desktop\Biometria\uOptions.pas=</Transaction>
+    <Transaction>2011/04/02 18:33:35.562.dfm,C:\Documents and Settings\Paulo Vale\Desktop\Biometria\uOptions.dfm=</Transaction>
+    <Transaction>2011/04/02 18:33:39.093.pas,C:\Documents and Settings\Paulo Vale\Desktop\Biometria\uMain.pas=</Transaction>
+    <Transaction>2011/04/02 18:33:39.093.dfm,C:\Documents and Settings\Paulo Vale\Desktop\Biometria\uMain.dfm=</Transaction>
+    <Transaction>2011/04/03 20:45:58.968.pas,C:\Documents and Settings\Paulo Vale\Desktop\Biometria\uDBClass.pas=</Transaction>
+    <Transaction>2011/04/03 20:58:39.484.pas,C:\Documents and Settings\Paulo Vale\Desktop\Biometria\uUtil.pas=</Transaction>
+    <Transaction>2011/04/03 20:58:53.828.pas,C:\Documents and Settings\Paulo Vale\Desktop\Biometria\uCallbacks.pas=</Transaction>
+    <Transaction>2011/04/03 20:59:28.796.pas,C:\Documents and Settings\Paulo Vale\Desktop\Biometria\GrFinger.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

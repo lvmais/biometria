@@ -1,0 +1,5 @@
+Coloquei a DLL na raiz do sistema e não funcionou.
+
+Provávelmente tem que instalar o sistema para ele rodar. 
+
+A DLL deve ser registrada ou algo assim....

@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.griaule.grFingerSample.Util
+Class-Path: ../../../../bin/GrFingerJava.jar
